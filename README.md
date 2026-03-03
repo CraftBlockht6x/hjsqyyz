@@ -2,7 +2,9 @@
 
 > 🏫 一个由学生自主创建的静态学校官网存档项目
 
-[GitHub license] [GitHub stars] [GitHub forks]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/CraftBlockht6x/hjsqyyz)](https://github.com/CraftBlockht6x/hjsqyyz/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/CraftBlockht6x/hjsqyyz)](https://github.com/CraftBlockht6x/hjsqyyz/network)
 
 ## 📋 项目简介
 
@@ -81,9 +83,9 @@ npx serve
 
 ## 📝 内容来源
 
-- [百度百科 - 洪江市黔阳一中]
-- [亚雯名师工作室]
-- [洪江市人民政府官网]
+- 百度百科 - 洪江市黔阳一中
+- 亚雯名师工作室
+- 洪江市人民政府官网
 - 其他公开历史资料
 
 ## ⚠️ 免责声明
