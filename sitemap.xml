@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://www.hjsqyyz.cn/</loc>
+        <lastmod>2026-03-03</lastmod>
+        <changefreq>never</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.hjsqyyz.cn/image/image1.jpg</image:loc>
+            <image:title>洪江市黔阳一中学校大门</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.hjsqyyz.cn/image/image2.jpg</image:loc>
+            <image:title>洪江市黔阳一中教学楼</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.hjsqyyz.cn/image/image3.jpg</image:loc>
+            <image:title>洪江市黔阳一中校史馆</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.hjsqyyz.cn/image/image4.jpg</image:loc>
+            <image:title>洪江市黔阳一中运动场</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.hjsqyyz.cn/image/image5.jpg</image:loc>
+            <image:title>洪江市黔阳一中科教楼</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.hjsqyyz.cn/image/image6.jpg</image:loc>
+            <image:title>洪江市黔阳一中校园绿化</image:title>
+        </image:image>
+    </url>
+</urlset>

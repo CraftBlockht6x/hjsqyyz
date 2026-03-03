@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /image/
+
+# 禁止抓取非必要文件
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+# 站点地图
+Sitemap: https://www.hjsqyyz.cn/sitemap.xml
